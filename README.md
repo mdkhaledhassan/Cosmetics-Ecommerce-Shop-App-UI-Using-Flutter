@@ -1,4 +1,4 @@
-# ui_design
+# Cosmetics Ecommerce Shop App UI Using Flutter
 
 A new Flutter project.
 
